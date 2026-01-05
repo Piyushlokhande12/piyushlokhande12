@@ -18,20 +18,6 @@
 
 ---
 
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piyushlokhande12&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyushlokhande12&theme=tokyonight" />
-</p>
-
-
----
-
 ### 🌐 Connect With Me
 - 📧 Email: piyushlokhande160@gmail.com  
 - 💼 LinkedIn: linkedin.com/in/piyush-lokhande-9118a0252 
