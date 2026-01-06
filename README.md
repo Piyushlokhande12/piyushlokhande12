@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 MCA Student at IIPS DAVV  
+- 🎓 MCA Student 
 - 💻 Full Stack Developer (React, Node, Django)    
 - 🛠 Building real-world projects  
 
